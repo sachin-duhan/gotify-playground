@@ -1,0 +1,4 @@
+POST http://localhost:8080/message
+X-Gotify-Key: A1R3jH9gPHZz4K4
+Content-Type: application/json
+@vegeta_results/small_message.json
